@@ -18,6 +18,6 @@ function temp() {
     message.textContent = "bro u cooked, LITERALLY";
   } else {
     message.textContent = "freezing 🥶❄️";
-    message.style.backgroundColor = "red";
+    message.style.backgroundColor = "skyblue";
   }
 }

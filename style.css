@@ -1,0 +1,13 @@
+html {
+  background-color: black;
+  color: white;
+  text-align: center;
+  font-size: 30px;
+}
+input {
+  margin-top: 200px;
+  font-size: 15px;
+}
+button {
+  font-size: 15px;
+}
